@@ -72,14 +72,6 @@ Em 09/23, concluí o bootcamp de desenvolvimento web pela Le Wagon, utilizando o
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
