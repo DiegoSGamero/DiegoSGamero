@@ -3,14 +3,7 @@
 **`Desenvolvedor Web em Rails`**
 
 <p align="left">
-    Estudante de Banco de Dados na FATEC-SJC <img 
-        align="center" 
-        alt="Estudante" 
-        title="Estudante" 
-        width="20px" 
-        style="padding-right: 5px;" 
-        src="https://cdn-icons-png.flaticon.com/512/201/201818.png"
-    />
+    Estudante de Banco de Dados na FATEC-SJC 👨🏻‍💻 
 </p>
 
 <p align="left">
