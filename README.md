@@ -1,4 +1,4 @@
-# 👩🏻‍💻  Diego Sales
+# Diego Sales
 
 **`Desenvolvedor Web em Rails`**
 
