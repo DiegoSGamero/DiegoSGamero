@@ -2,9 +2,15 @@
 
 **`Desenvolvedor Web em Rails`**
 
-Estudante de Banco de Dados na FATEC-SJC, venho de algumas experiências como autônomo, administrativo e estagiário enquanto cursava economia na Universidade de São Paulo.
-Em 09/23, concluí o bootcamp de desenvolvimento web pela Le Wagon, utilizando o framework Ruby on Rails. Desde então, meu interesse por programação só cresceu, me levando ao tecnólogo em Banco de Dados.
-
+Estudante de Banco de Dados na FATEC-SJC.
+<img 
+    align="left" 
+    alt="Estudante" 
+    title="Estudante" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/3135/3135004.png" 
+/>
 
 <p align="left">
      <a href="https://www.linkedin.com/in/diego-gamero/" target="_blank" rel="noopener noreferrer">
