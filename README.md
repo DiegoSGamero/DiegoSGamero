@@ -2,15 +2,17 @@
 
 **`Desenvolvedor Web em Rails`**
 
-Estudante de Banco de Dados na FATEC-SJC.
-<img 
-    align="left" 
-    alt="Estudante" 
-    title="Estudante" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/3135/3135004.png" 
-/>
+<p align="left">
+    Estudante de Banco de Dados na FATEC-SJC
+     <img 
+        align="center" 
+        alt="Estudante" 
+        title="Estudante" 
+        width="20px" 
+        style="padding-right: 5px;" 
+        src="https://cdn-icons-png.flaticon.com/512/3135/3135004.png"
+    />
+</p>
 
 <p align="left">
      <a href="https://www.linkedin.com/in/diego-gamero/" target="_blank" rel="noopener noreferrer">
