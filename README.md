@@ -6,17 +6,16 @@
     Estudante de Banco de Dados na FATEC-SJC 👨🏻‍💻 
 </p>
 
-<p align="left">
-     <a href="https://www.linkedin.com/in/diego-gamero/" target="_blank" rel="noopener noreferrer">
-        <img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-            alt="LinkedIn"
-            title="Vamos nos conectar no LinkedIn"
-            width="28" 
-            height="28"
-        />
-    </a>
-</p>
+
+<a href="https://www.linkedin.com/in/diego-gamero/" target="_blank" rel="noopener noreferrer" title="Vamos nos conectar no LinkedIn">
+    <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+        alt="LinkedIn"
+        width="28" 
+        height="28"
+    />
+</a>
+
 
 ---
 
