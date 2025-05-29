@@ -1,6 +1,6 @@
 # Diego Sales
 
-**`Desenvolvedor Web em Rails`**
+**`Desenvolvedor`**
 
 <p align="left">
     Estudante de Banco de Dados na FATEC-SJC 👨🏻‍💻 
